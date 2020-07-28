@@ -6,6 +6,7 @@ function App () {
   return (
     <div className="App">
       <Calc max={15} step={3} />
+      
     </div>
   );
 }
